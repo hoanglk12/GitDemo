@@ -8,7 +8,7 @@
 
 </form>
 </div>
-
+sdvsfvbsfbf
 <?php 
 
 include("includes/db.php");
@@ -29,6 +29,6 @@ include("includes/db.php");
 		echo "<script>window.open('my_account.php','_self')</script>";
 	}
 
-	
+	sfsfsdv
 
  ?>
