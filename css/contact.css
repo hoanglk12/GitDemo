@@ -39,15 +39,6 @@
 }
 
 #contactform input,
-#contactform textarea {
-  margin-bottom: 14px;
-  width: 100%;
-  outline: none;
-  border: none;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-size: 11px;
-}
 
 #contactform input {
   padding-left: 15px;
@@ -60,6 +51,16 @@
   height: 218px;
   border-radius: 0;
 }
+
+#contactform .btn {
+  width: 100%;
+  height: 50px;
+  border-radius: 0;
+  border: 1px solid #333;
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+}
+
 
 #contactform .btn {
   width: 100%;
